@@ -21,8 +21,8 @@ article_3 = Article.new(author_2, magazine_1, "Big Bang Theory")
 article_4 = Article.new(author_2, magazine_2, "Abudant Grace")
 
 
-pp author_1.articles
-pp author_2.articles
+pp author_1
+pp author_2 
 
 
 
@@ -31,6 +31,6 @@ pp author_2.articles
 
 
 ### DO NOT REMOVE THIS
-binding.pry
+# binding.pry
 
 0
